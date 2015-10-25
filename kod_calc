@@ -190,7 +190,9 @@ public class credit extends javax.swing.JFrame {
         pack();
     }                      
     private void creditsumActionPerformed(java.awt.event.ActionEvent evt) {                                          
-    }                                        
+    }     
+    private void creditsumActionPerformed(java.awt.event.ActionEvent evt) {                                          
+    }       
     private void calculateActionPerformed(java.awt.event.ActionEvent evt) {                                          
     double x;
     double s;
