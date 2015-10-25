@@ -44,7 +44,7 @@ public class credit extends javax.swing.JFrame {
 
         jLabel3.setText("мес.");
 
-        jLabel4.setText("Процентная ставка:");
+        jLabel4.setText("Процентн");
 
         jLabel6.setText("%");
 
